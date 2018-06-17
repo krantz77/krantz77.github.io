@@ -1,0 +1,19 @@
+
+body{
+  display: flex;
+  justify-content: center;
+}
+h1 {
+position: absolute;
+width: 644px;
+height: 135px;
+
+font-family: Puritan;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 64px;
+text-align: center;
+
+color: #000000;
+}
